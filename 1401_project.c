@@ -1,5 +1,4 @@
 // 99385
-// 108575
 #include <stdio.h>
 #include <string.h>
 //function that converts a string of characters to all uppercase letters
